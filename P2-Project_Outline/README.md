@@ -10,7 +10,9 @@ A user should be able to save movies to their profile as a “to-do” list.
 ## Submission Instructions
 
 ### Overview
-Include overview here
+	A user is able to find movies from the streaming services available with them. We are trying to provide
+features to search the movies based on some criterias and once they find it, it can be saved in their 
+to-do list.
 ### Features
 
 ###User login
