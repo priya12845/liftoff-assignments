@@ -12,12 +12,13 @@ A user should be able to save movies to their profile as a “to-do” list.
 ### Overview
 Include overview here
 ### Features
-User login
+
+###User login
 	Profile management
 	Authentication
-UI
+###UI
 	Mobile responsive
-	User list of movies
+User list of movies
 	Add to list
 	Remove from list after watching
 	Share
