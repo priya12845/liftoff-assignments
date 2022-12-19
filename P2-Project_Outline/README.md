@@ -4,15 +4,49 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
+A movie finder based on the streaming services selected. 
+A user should be able to save movies to their profile as a “to-do” list.
+
 ## Submission Instructions
 
 ### Overview
 Include overview here
 ### Features
-Include Features here
+User login
+	Profile management
+	Authentication
+UI
+	Mobile responsive
+	User list of movies
+	Add to list
+	Remove from list after watching
+	Share
+	Table that is filter/sortable
+	Movie search page
+Options:
+	Search text box
+		Should work while empty
+	Selector of streaming services
+		Netflix, Hulu, HBOMax, Disney+, Amazon Prime
+		Specific actors
+		All movies available to you in alphabetical order
+		Genre
+		Rating (G, PG, PG-13, R)
+		Year released
+
+Search Results page
+
+
 ### Technologies
-Include Technologies here
+	JavaScript
+	React
+	Visual Studio Code
+	MySQL
+	Postman (test API)
+	C#
 ### What I'll Have to Learn
-Include what you will need to learn here
+React
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/WfPiNOx0/ATTIdeaae232835a20fbf0e8e56013f953f500024DC2/liftoff-project (
+
